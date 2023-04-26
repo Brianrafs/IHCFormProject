@@ -1,0 +1,11 @@
+#root {
+  --primary-yellow: #F2A649;
+  --secondary-yellow: #F2913D;
+  --light-brown: #8C5627;
+  --golden: #F27C38;
+  --black: #0D0D0D;
+}
+
+*{
+  font-family:'Barlow', sans-serif;;
+}
